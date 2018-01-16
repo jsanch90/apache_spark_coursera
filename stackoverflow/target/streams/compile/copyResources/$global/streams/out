@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/josh/Documentos/P4RSEK/apache_spark_coursera/stackoverflow/src/main/resources/stackoverflow,/home/josh/Documentos/P4RSEK/apache_spark_coursera/stackoverflow/target/scala-2.11/classes/stackoverflow)[0m
+[0m[[0mdebug[0m] [0m	(/home/josh/Documentos/P4RSEK/apache_spark_coursera/stackoverflow/src/main/resources/stackoverflow/stackoverflow.csv,/home/josh/Documentos/P4RSEK/apache_spark_coursera/stackoverflow/target/scala-2.11/classes/stackoverflow/stackoverflow.csv)[0m
